@@ -6,31 +6,21 @@
             font-family: Arial, sans-serif;
 	       
         }
-
-        .header {
+.header {
             background-color: #011e29;
             text-align: center;
             padding: 20px;
         }
-
-        .latest-news-section {
+.latest-news-section {
             background-color: #ffffff;
             padding: 20px;
             width: 80%;
-            margin: 0 auto;
+	        height:auto;
+            margin: 20px auto;
             border-radius: 10px;
         }
 
-        .latest-news-section ul {
-            
-            padding: 0;
-        }
-
-        .latest-news-section li {
-            
-            font-size: 18px;
-            margin-bottom: 10px;
-        }
+       
 
         .pictorial-news-section {
             background-color: #ffffff;
@@ -50,7 +40,7 @@
 	background-color: #ffffff;
 	padding: 20px;
 	width: 80%;
-    margin: 0 auto;
+    margin: 20px;
     border-radius: 10px;
 }
 .container{
